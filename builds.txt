@@ -1,6 +1,7 @@
 name="My Custom Build"
 url="https://www.dropbox.com/scl/fi/o95g4wbw37aadc6nzuocn/build.zip?rlkey=2euq7wbgq9uzdmy1hi9nz59on&st=3q7burbx&dl=1"
-img=""
-desc="ตัวติดตั้งระบบ openwizard อัปเดตล่าสุด"
+img="https://github.io"
+desc="ตัวติดตั้งระบบบิวด์ธีม Arctic อัปเดตล่าสุด รองรับ Kodi 20/21"
 version="1.0.0"
 kodi="19.0"
+
