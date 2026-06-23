@@ -1,5 +1,6 @@
 name="My Custom Build"
 url="https://www.dropbox.com/scl/fi/o95g4wbw37aadc6nzuocn/build.zip?rlkey=2euq7wbgq9uzdmy1hi9nz59on&st=3q7burbx&dl=1"
 img=""
-desc="ตัวติดตั้งระบบ EZ Maintenance อัปเดตล่าสุด"
+desc="ตัวติดตั้งระบบ openwizard อัปเดตล่าสุด"
 version="1.0.0"
+kodi="19.0"
